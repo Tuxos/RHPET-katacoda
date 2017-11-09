@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "OpenShift Jumpstart",
-  "title": "First steps with the CLI",
-  "description": "Welcome to the OpenShift Jumpstart curriculum",
+  "title": "OpenShift Jumpstart - CLI introduction Lab",
+  "description": "First steps with the oc command",
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
