@@ -1,0 +1,29 @@
+{
+  "title": "OpenShift playground",
+  "description": "Welcome to the OpenShift playground1",
+  "difficulty": "beginner",
+  "time": "12 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Run Command",
+      "text": "step1.md",
+      "code": "init.sh"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "showdashboard": true,
+    "dashboards": [{"name": "Webconsole", "port": 8443, "host": "host01"}],
+    "uilayout": "terminal-iframe",
+    "uimessage1": ""
+  },
+  "backend": {
+    "imageid": "openshift"
+  }
+}
