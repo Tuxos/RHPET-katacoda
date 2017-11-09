@@ -21,7 +21,7 @@
   "environment": {
     "showdashboard": true,
     "dashboards": [{"name": "Webconsole", "port": 8443, "host": "host01"}],
-    "uilayout": "terminal-iframe",
+    "uilayout": "terminal",
     "uimessage1": ""
   },
   "backend": {
