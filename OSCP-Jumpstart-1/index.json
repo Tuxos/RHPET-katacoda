@@ -1,11 +1,12 @@
 {
-  "title": "OpenShift playground",
-  "description": "Welcome to the OpenShift playground",
+  "pathwayTitle": "OpenShift Jumpstart",
+  "title": "First steps with the CLI",
+  "description": "Welcome to the OpenShift Jumpstart curriculum",
   "difficulty": "beginner",
-  "time": "12 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Step 1 - Introduction into the oc command aka. OpenShift commandline",
       "text": "step1.md",
       "code": "init.sh"
     }],
